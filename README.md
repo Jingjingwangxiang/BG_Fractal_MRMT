@@ -1,6 +1,6 @@
 # BG_Fractal_MRMT
 
-The SourceCode.rar contains the source codes developed to simulate biofilm growth with the fractal multirate mass transfer model.
+The SourceCode.rar contains the source codes developed to simulate biofilm growth with the fractal multirate mass transfer model, also available at https://doi.org/10.5281/zenodo.12526197.
 
 Software development platform: Microsoft Visual Studio 2022
 
