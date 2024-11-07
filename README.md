@@ -1,7 +1,6 @@
 # BG_Fractal_MRMT
 
-It supports our findings in Water Resources Research published in November 2024, titled "Biofilm Growth in Porous Media Well Approximated by Fractal Multirate Mass Transfer With Advective‐Diffusive Solute Exchange". https://doi.org/10.1029/
-2023WR036872
+It supports our findings in Water Resources Research published in November 2024, titled "Biofilm Growth in Porous Media Well Approximated by Fractal Multirate Mass Transfer With Advective‐Diffusive Solute Exchange". https://doi.org/10.1029/2023WR036872
 
 The SourceCode.rar contains the source codes developed to simulate biofilm growth with the fractal multirate mass transfer model, also available at https://doi.org/10.5281/zenodo.12526197.
 
