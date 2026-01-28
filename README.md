@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 # BG_Fractal_MRMT
 
 It supports our findings in Water Resources Research published in November 2024, titled "Biofilm Growth in Porous Media Well Approximated by Fractal Multirate Mass Transfer With Advective‐Diffusive Solute Exchange". https://doi.org/10.1029/2023WR036872
