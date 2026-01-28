@@ -1,5 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+Copyright (c) 2024 Jingjing Wang
+
+This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share and adapt this dataset, as long as you give appropriate credit and indicate if changes were made. See the LICENSE file for details.
+
 # BG_Fractal_MRMT
 
 It supports our findings in Water Resources Research published in November 2024, titled "Biofilm Growth in Porous Media Well Approximated by Fractal Multirate Mass Transfer With Advective‐Diffusive Solute Exchange". https://doi.org/10.1029/2023WR036872
